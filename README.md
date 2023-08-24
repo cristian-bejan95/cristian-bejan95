@@ -1,7 +1,7 @@
 <h2 align="center">👋, I'm Cristian</h2>
 <h3 align="center">A passionate frontend developer from Moldova</h3>
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 <p align="left">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
