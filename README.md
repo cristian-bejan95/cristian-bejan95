@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Languages</h3>
-<p align="left">
+<p align="right">
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   
