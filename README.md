@@ -12,3 +12,8 @@
 
 
 <h3 align="left">Technologies</h3>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="30" height="30"/>
+
+</p>
