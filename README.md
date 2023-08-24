@@ -1,4 +1,4 @@
-<h2 align="center">👋, I'm Cristian</h2>
+<h2>👋, I'm Cristian</h2>
 <h3 align="center">I am passionate FrontEnd developer from Moldova md.</h3>
 
 <h3 align="left">Languages</h3>
