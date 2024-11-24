@@ -1,5 +1,5 @@
 <h2>👋, I'm Cristian</h2>
-<h4>I am passionate FrontEnd developer from Moldova md.</h4>
+<h4>I am passionate Front-End developer from Moldova md.</h4>
 
 <h3 align="left">Languages</h3>
 <p align="left">
